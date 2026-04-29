@@ -76,6 +76,31 @@ frontend/
   README.md
 ```
 
+
+<img width="1470" height="834" alt="image" src="https://github.com/user-attachments/assets/d6e58fe4-d5d5-440d-8aee-e1c50f61255f" />
+
+-
+
+<img width="1470" height="834" alt="image" src="https://github.com/user-attachments/assets/e57ef4ce-7951-4a44-a629-122d46500992" />
+
+-
+
+<img width="1470" height="836" alt="image" src="https://github.com/user-attachments/assets/590ea4b8-6ae8-42ac-9b34-8e7c7889d568" />
+
+-
+
+<img width="1470" height="833" alt="image" src="https://github.com/user-attachments/assets/0ffacf9c-e03b-4ea7-9b3c-c02ff828299d" />
+
+-
+
+<img width="1470" height="833" alt="image" src="https://github.com/user-attachments/assets/cefbffb2-d880-4cef-ad3f-ae385f13f67b" />
+
+-
+
+<img width="1470" height="833" alt="image" src="https://github.com/user-attachments/assets/16decd67-6415-425c-b044-04ccf428d514" />
+
+
+
 ## Backend Setup
 
 ```bash
